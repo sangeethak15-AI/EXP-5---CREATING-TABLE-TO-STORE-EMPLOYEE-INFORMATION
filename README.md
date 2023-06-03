@@ -58,7 +58,7 @@ class EmployeeDetails
         Employee e2=new Employee("John        ", 2002, "        70F-WallsStreet");
         e2.Sam();
     }}
-    ```
+```
 ## OUTPUT:
 ![image](https://github.com/sangeethak15-AI/EXP-5---CREATING-TABLE-TO-STORE-EMPLOYEE-INFORMATION/assets/93992063/2225abfb-bee1-4fd3-af45-f232810f3401)
 
